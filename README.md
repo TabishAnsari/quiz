@@ -1,2 +1,2 @@
 # quiz
-Run "$ pipenv shell" before to activate virtual environment.
+Run "$ pipenv shell" to activate virtual environment.
